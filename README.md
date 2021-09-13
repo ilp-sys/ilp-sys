@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![z2ouu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilp-sys&show_icons=true&theme=dark)
+![z2ouu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilp-sys&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilp-sys&langs_count=8&layout=compact)
 
 
