@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
+
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilp-sys&langs_count=8&layout=compact&&theme=discord_old_blurple)  
@@ -21,4 +23,4 @@ Here are some ideas to get you started:
   
 </div>
 
--->
+
