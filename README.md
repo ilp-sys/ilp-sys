@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   
 ### &lt;!-- No one is too dumb for computer science🤞 --&gt;
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilp-sys&langs_count=8&layout=compact&&theme=discord_old_blurple)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilp-sys&langs_count=8&layout=compact&&theme=graywhite)  
 <!-- ![z2ouu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilp-sys&show_icons=true&theme=discord_old_blurple) -->
   
 </div>
