@@ -1,4 +1,4 @@
-### Hi there 👋
+### no one is too dumb for computer science
 
 <!--
 **ilp-sys/ilp-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
