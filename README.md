@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 
 -->
 
-<!-- <div align="center"> -->
+<div align="center">
   
 [![jiwahn's 42 stats](https://badge42.vercel.app/api/v2/cl5mpp96a00400amd35y6oqy6/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilp-sys&langs_count=8&layout=compact&&theme=github_dark)  
 <!-- ![z2ouu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilp-sys&show_icons=true&theme=discord_old_blurple) -->
   
-<!-- </div> -->
+</div>
 
 
