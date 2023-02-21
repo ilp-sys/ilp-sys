@@ -16,11 +16,6 @@ Here are some ideas to get you started:
  
  Studying CS@KNU && cultivating fellowship@42seoul <br>
  Always looking for an intriguing project👀 <br>
- 
--- 
- 
- Langs:
- Tools:
 
 <div align="center">
   
