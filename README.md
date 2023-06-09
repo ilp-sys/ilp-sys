@@ -13,12 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <div align="center">
-  
+
+ Studying CS@KNU && cultivating fellowship@42seoul <br>
+ Always looking for an intriguing project👀 <br>  
+
 [![jiwahn's 42 stats](https://badge42.vercel.app/api/v2/cl5mpp96a00400amd35y6oqy6/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
   
 </div>
 
 -->
  
- Studying CS@KNU && cultivating fellowship@42seoul <br>
- Always looking for an intriguing project👀 <br>
+＄ｒｍ －Ｒ
