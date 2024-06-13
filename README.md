@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 
 -->
  
-/* You are not expected to understand this */
+- C/C++ and Rust
+- System programming for Linux
+- Frontend(`¯\_(ツ)_/¯` ) with React, Next.js
