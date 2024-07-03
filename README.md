@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+
+$ cat ilp-sys.toml
+
+ ### [dependencies] <br/>
  
-- C/C++ and Rust
-- System programming for Linux
-- Frontend(`¯\_(ツ)_/¯` ) with React, Next.js
+ languages = "C/C++ and Rust" <br/>
+ interests = "System programming for Linux" <br/>
+ others = "Frontend(`¯\_(ツ)_/¯` ) with React, Next.js" <br/>
