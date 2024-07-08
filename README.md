@@ -20,4 +20,5 @@ $ cat ilp-sys.toml
  
  languages = "C/C++ and Rust" <br/>
  interests = "System programming for Linux" <br/>
- others = "Frontend(`¯\_(ツ)_/¯` ) with React, Next.js" <br/>
+ others = "Frontend(`¯\_(ツ)_/¯` ) with React and Next.js" <br/>
+ ... and a mantra = ***"Don't Panic!"***
